@@ -1,0 +1,20 @@
+Source,C:\Users\Rih\Documents\Darbi\Sem4\Single_transistor_AMP\Single_transistor_AMP.sch
+Kicad Rev,Eeschema (5.1.5)-3
+Generated Date,09/05/2020 21:03:36
+
+Title,Single_Transistor_Amp
+Company,VUAS
+Revision,V1.0
+Date Issue,2020-04-01
+
+Reference,Value,Library,Library Ref
+C1,1uF,Device,C
+R2,4.7k,Device,R
+R3,1k,Device,R
+R1,4.7k,Device,R
+R4,1k,Device,R
+C2,2uF,Device,C
+Q1,BC547,Device,Q_NPN_EBC
+J3,SIG_IN,Connector,Screw_Terminal_01x02
+J2,SIG_OUT,Connector,Screw_Terminal_01x02
+J1,9V_IN,Connector,Screw_Terminal_01x02
